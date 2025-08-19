@@ -1,0 +1,5 @@
+{
+  "name": "Inventory and Profit Analyzer",
+  "description": "A lightweight, offline-first web application to track inventory, purchases, and sales. It provides operational analysis reports with tables and charts, all data is saved locally in your browser. The app features a sleek deep black and light blue theme.",
+  "requestFramePermissions": []
+}
